@@ -1,0 +1,5 @@
+name: letta
+version: 1.0.0
+description: "Letta memory service — structured long-term memory for Hermes using a self-hosted Letta API."
+hooks:
+  - on_session_end
